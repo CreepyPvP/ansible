@@ -16,4 +16,5 @@
     - include: tasks/neovim.yml
     - include: tasks/brave.yml
     - include: tasks/tools.yml
+    - include: tasks/discord.yml
   
